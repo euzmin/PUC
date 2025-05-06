@@ -1,17 +1,15 @@
 # PUC Released Code
 
-This repository contains the official released code for Rethinking Causal Ranking: A Balanced Perspective on Uplift Model Evaluation 
+This repository contains the official released code for Rethinking Causal Ranking: A Balanced Perspective on Uplift Model Evaluation.
 
----
 
 ## 📌 Overview
 
 This project includes:
 
 - **PUC metric** for evaluating uplift models.
-- **PTONet**, including hyperparameter tuning and final experiments.
+- **PTONet** including hyperparameter tuning and final experiments.
 
----
 
 ## 🧪 Compare PUC with Other Metrics
 
@@ -25,7 +23,6 @@ Open and run `metric_test.ipynb`
 
 This notebook includes direct evaluation and comparison between PUC and other existing metrics.
 
----
 
 ## ⚙️ Train and Evaluate PTONet
 
